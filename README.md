@@ -601,4 +601,8 @@ for notes in mongoresult:
   print(notes)
 ```
 
-## **Didokumentasikan oleh Xyyylaufyyy1337.**
+# **Penutup**
+
+Hai, aku Alpha Prima Galatheo Qallbu
+
+Aku seorang Information Security Analyst, juga Pendiri di komunitas 1337Syndicate, aku suka budaya Jepang.
