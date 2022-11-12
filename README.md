@@ -605,4 +605,4 @@ for notes in mongoresult:
 
 Hai, aku Alpha Prima Galatheo Qallbu
 
-Aku seorang Information Security Analyst, juga Pendiri di komunitas 1337Syndicate, aku suka budaya Jepang.
+Aku seorang Information Security Analyst, juga Pendiri di komunitas 1337Syndicate, aku suka bahasa dan budaya Jepang.
