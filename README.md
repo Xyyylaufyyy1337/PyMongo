@@ -1,4 +1,4 @@
-# **PyMongo, driver MongoDB resmi untuk Python.**
+# **PyMongo, driver MongoDB resmi untuk Python**
 
 ## **Mengenal PyMongo**
 
